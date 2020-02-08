@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "silkeborg-kfum-volleyball",
+      "public": "dist/silkeborg-kfum-volleyball",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

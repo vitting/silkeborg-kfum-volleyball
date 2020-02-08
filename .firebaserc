@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "silkeborg-kfum-volleyball": {
+      "hosting": {
+        "silkeborg-kfum-volleyball": [
+          "silkeborg-kfum-volleyball"
+        ]
+      }
+    }
+  }
+}
